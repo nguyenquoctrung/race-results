@@ -1,0 +1,992 @@
+[
+  {
+    "year": "2023",
+    "grand-pix": "Bahrain",
+    "date": "05-Mar-2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "57",
+    "time": "1:33:56.736"
+  },
+  {
+    "year": "2023",
+    "grand-pix": "Saudi Arabia",
+    "date": "19-Mar-2023",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "50",
+    "time": "1:21:14.894"
+  },
+  {
+    "year": "2023",
+    "grand-pix": "Australia",
+    "date": "02-Apr-2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "58",
+    "time": "2:32:38.371"
+  },
+  {
+    "year": "2023",
+    "grand-pix": "Azerbaijan",
+    "date": "30-Apr-2023",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "51",
+    "time": "1:32:42.436"
+  },
+  {
+    "year": "2023",
+    "grand-pix": "Miami",
+    "date": "07-May-2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "57",
+    "time": "1:27:38.241"
+  },
+  {
+    "year": "2023",
+    "grand-pix": "Monaco",
+    "date": "28-May-2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "78",
+    "time": "1:48:51.980"
+  },
+  {
+    "year": "2023",
+    "grand-pix": "Spain",
+    "date": "04-Jun-2023",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda RBPT",
+    "laps": "66",
+    "time": "1:27:57.940"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Bahrain",
+    "date": "20-Mar-2022",
+    "winner": "Charles Leclerc LEC",
+    "car": "Ferrari",
+    "laps": "57",
+    "time": "1:37:33.584"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Saudi Arabia",
+    "date": "27-Mar-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "50",
+    "time": "1:24:19.293"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Australia",
+    "date": "10-Apr-2022",
+    "winner": "Charles Leclerc LEC",
+    "car": "Ferrari",
+    "laps": "58",
+    "time": "1:27:46.548"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Emilia Romagna",
+    "date": "24-Apr-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "63",
+    "time": "1:32:07.986"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Miami",
+    "date": "08-May-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "57",
+    "time": "1:34:24.258"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Spain",
+    "date": "22-May-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "66",
+    "time": "1:37:20.475"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Monaco",
+    "date": "29-May-2022",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "64",
+    "time": "1:56:30.265"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Azerbaijan",
+    "date": "12-Jun-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "51",
+    "time": "1:34:05.941"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Canada",
+    "date": "19-Jun-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "70",
+    "time": "1:36:21.757"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Great Britain",
+    "date": "03-Jul-2022",
+    "winner": "Carlos Sainz SAI",
+    "car": "Ferrari",
+    "laps": "52",
+    "time": "2:17:50.311"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Austria",
+    "date": "10-Jul-2022",
+    "winner": "Charles Leclerc LEC",
+    "car": "Ferrari",
+    "laps": "71",
+    "time": "1:24:24.312"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "France",
+    "date": "24-Jul-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "53",
+    "time": "1:30:02.112"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Hungary",
+    "date": "31-Jul-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "70",
+    "time": "1:39:35.912"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Belgium",
+    "date": "28-Aug-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "44",
+    "time": "1:25:52.894"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Netherlands",
+    "date": "04-Sep-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "72",
+    "time": "1:36:42.773"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Italy",
+    "date": "11-Sep-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "53",
+    "time": "1:20:27.511"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Singapore",
+    "date": "02-Oct-2022",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "59",
+    "time": "2:02:20.238"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Japan",
+    "date": "09-Oct-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "28",
+    "time": "3:01:44.004"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "United States",
+    "date": "23-Oct-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "56",
+    "time": "1:42:11.687"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Mexico",
+    "date": "30-Oct-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "71",
+    "time": "1:38:36.729"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Brazil",
+    "date": "13-Nov-2022",
+    "winner": "George Russell RUS",
+    "car": "Mercedes",
+    "laps": "71",
+    "time": "1:38:34.044"
+  },
+  {
+    "year": "2022",
+    "grand-pix": "Abu Dhabi",
+    "date": "20-Nov-2022",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing RBPT",
+    "laps": "58",
+    "time": "1:27:45.914"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Bahrain",
+    "date": "28-Mar-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "56",
+    "time": "1:32:03.897"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Emilia Romagna",
+    "date": "18-Apr-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "63",
+    "time": "2:02:34.598"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Portugal",
+    "date": "02-May-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "66",
+    "time": "1:34:31.421"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Spain",
+    "date": "09-May-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "66",
+    "time": "1:33:07.680"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Monaco",
+    "date": "23-May-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "78",
+    "time": "1:38:56.820"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Azerbaijan",
+    "date": "06-Jun-2021",
+    "winner": "Sergio Perez PER",
+    "car": "Red Bull Racing Honda",
+    "laps": "51",
+    "time": "2:13:36.410"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "France",
+    "date": "20-Jun-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "53",
+    "time": "1:27:25.770"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Styria",
+    "date": "27-Jun-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "71",
+    "time": "1:22:18.925"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Austria",
+    "date": "04-Jul-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "71",
+    "time": "1:23:54.543"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Great Britain",
+    "date": "18-Jul-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "52",
+    "time": "1:58:23.284"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Hungary",
+    "date": "01-Aug-2021",
+    "winner": "Esteban Ocon OCO",
+    "car": "Alpine Renault",
+    "laps": "70",
+    "time": "2:04:43.199"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Belgium",
+    "date": "29-Aug-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "1",
+    "time": "0:03:27.071"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Netherlands",
+    "date": "05-Sep-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "72",
+    "time": "1:30:05.395"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Italy",
+    "date": "12-Sep-2021",
+    "winner": "Daniel Ricciardo RIC",
+    "car": "McLaren Mercedes",
+    "laps": "53",
+    "time": "1:21:54.365"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Russia",
+    "date": "26-Sep-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:30:41.001"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Turkey",
+    "date": "10-Oct-2021",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "58",
+    "time": "1:31:04.103"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "United States",
+    "date": "24-Oct-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "56",
+    "time": "1:34:36.552"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Mexico",
+    "date": "07-Nov-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "71",
+    "time": "1:38:39.086"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Brazil",
+    "date": "14-Nov-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "71",
+    "time": "1:32:22.851"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Qatar",
+    "date": "21-Nov-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "57",
+    "time": "1:24:28.471"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Saudi Arabia",
+    "date": "05-Dec-2021",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "50",
+    "time": "2:06:15.118"
+  },
+  {
+    "year": "2021",
+    "grand-pix": "Abu Dhabi",
+    "date": "12-Dec-2021",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "58",
+    "time": "1:30:17.345"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Austria",
+    "date": "05-Jul-2020",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "71",
+    "time": "1:30:55.739"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Styria",
+    "date": "12-Jul-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "71",
+    "time": "1:22:50.683"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Hungary",
+    "date": "19-Jul-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "70",
+    "time": "1:36:12.473"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Great Britain",
+    "date": "02-Aug-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "52",
+    "time": "1:28:01.283"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "70th Anniversary",
+    "date": "09-Aug-2020",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "52",
+    "time": "1:19:41.993"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Spain",
+    "date": "16-Aug-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "66",
+    "time": "1:31:45.279"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Belgium",
+    "date": "30-Aug-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "44",
+    "time": "1:24:08.761"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Italy",
+    "date": "06-Sep-2020",
+    "winner": "Pierre Gasly GAS",
+    "car": "AlphaTauri Honda",
+    "laps": "53",
+    "time": "1:47:06.056"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Tuscany",
+    "date": "13-Sep-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "59",
+    "time": "2:19:35.060"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Russia",
+    "date": "27-Sep-2020",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:34:00.364"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Eifel",
+    "date": "11-Oct-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "60",
+    "time": "1:35:49.641"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Portugal",
+    "date": "25-Oct-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "66",
+    "time": "1:29:56.828"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Emilia Romagna",
+    "date": "01-Nov-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "63",
+    "time": "1:28:32.430"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Turkey",
+    "date": "15-Nov-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "58",
+    "time": "1:42:19.313"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Bahrain",
+    "date": "29-Nov-2020",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "57",
+    "time": "2:59:47.515"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Sakhir",
+    "date": "06-Dec-2020",
+    "winner": "Sergio Perez PER",
+    "car": "Racing Point BWT Mercedes",
+    "laps": "87",
+    "time": "1:31:15.114"
+  },
+  {
+    "year": "2020",
+    "grand-pix": "Abu Dhabi",
+    "date": "13-Dec-2020",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "55",
+    "time": "1:36:28.645"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Australia",
+    "date": "17-Mar-2019",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "58",
+    "time": "1:25:27.325"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Bahrain",
+    "date": "31-Mar-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "57",
+    "time": "1:34:21.295"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "China",
+    "date": "14-Apr-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "56",
+    "time": "1:32:06.350"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Azerbaijan",
+    "date": "28-Apr-2019",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "51",
+    "time": "1:31:52.942"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Spain",
+    "date": "12-May-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "66",
+    "time": "1:35:50.443"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Monaco",
+    "date": "26-May-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "78",
+    "time": "1:43:28.437"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Canada",
+    "date": "09-Jun-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "70",
+    "time": "1:29:07.084"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "France",
+    "date": "23-Jun-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:24:31.198"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Austria",
+    "date": "30-Jun-2019",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "71",
+    "time": "1:22:01.822"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Great Britain",
+    "date": "14-Jul-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "52",
+    "time": "1:21:08.452"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Germany",
+    "date": "28-Jul-2019",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "64",
+    "time": "1:44:31.275"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Hungary",
+    "date": "04-Aug-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "70",
+    "time": "1:35:03.796"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Belgium",
+    "date": "01-Sep-2019",
+    "winner": "Charles Leclerc LEC",
+    "car": "Ferrari",
+    "laps": "44",
+    "time": "1:23:45.710"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Italy",
+    "date": "08-Sep-2019",
+    "winner": "Charles Leclerc LEC",
+    "car": "Ferrari",
+    "laps": "53",
+    "time": "1:15:26.665"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Singapore",
+    "date": "22-Sep-2019",
+    "winner": "Sebastian Vettel VET",
+    "car": "Ferrari",
+    "laps": "61",
+    "time": "1:58:33.667"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Russia",
+    "date": "29-Sep-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:33:38.992"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Japan",
+    "date": "13-Oct-2019",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "52",
+    "time": "1:21:46.755"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Mexico",
+    "date": "27-Oct-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "71",
+    "time": "1:36:48.904"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "United States",
+    "date": "03-Nov-2019",
+    "winner": "Valtteri Bottas BOT",
+    "car": "Mercedes",
+    "laps": "56",
+    "time": "1:33:55.653"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Brazil",
+    "date": "17-Nov-2019",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing Honda",
+    "laps": "71",
+    "time": "1:33:14.678"
+  },
+  {
+    "year": "2019",
+    "grand-pix": "Abu Dhabi",
+    "date": "01-Dec-2019",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "55",
+    "time": "1:34:05.715"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Australia",
+    "date": "25-Mar-2018",
+    "winner": "Sebastian Vettel VET",
+    "car": "Ferrari",
+    "laps": "58",
+    "time": "1:29:33.283"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Bahrain",
+    "date": "08-Apr-2018",
+    "winner": "Sebastian Vettel VET",
+    "car": "Ferrari",
+    "laps": "57",
+    "time": "1:32:01.940"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "China",
+    "date": "15-Apr-2018",
+    "winner": "Daniel Ricciardo RIC",
+    "car": "Red Bull Racing TAG Heuer",
+    "laps": "56",
+    "time": "1:35:36.380"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Azerbaijan",
+    "date": "29-Apr-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "51",
+    "time": "1:43:44.291"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Spain",
+    "date": "13-May-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "66",
+    "time": "1:35:29.972"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Monaco",
+    "date": "27-May-2018",
+    "winner": "Daniel Ricciardo RIC",
+    "car": "Red Bull Racing TAG Heuer",
+    "laps": "78",
+    "time": "1:42:54.807"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Canada",
+    "date": "10-Jun-2018",
+    "winner": "Sebastian Vettel VET",
+    "car": "Ferrari",
+    "laps": "68",
+    "time": "1:28:31.377"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "France",
+    "date": "24-Jun-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:30:11.385"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Austria",
+    "date": "01-Jul-2018",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing TAG Heuer",
+    "laps": "71",
+    "time": "1:21:56.024"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Great Britain",
+    "date": "08-Jul-2018",
+    "winner": "Sebastian Vettel VET",
+    "car": "Ferrari",
+    "laps": "52",
+    "time": "1:27:29.784"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Germany",
+    "date": "22-Jul-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "67",
+    "time": "1:32:29.845"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Hungary",
+    "date": "29-Jul-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "70",
+    "time": "1:37:16.427"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Belgium",
+    "date": "26-Aug-2018",
+    "winner": "Sebastian Vettel VET",
+    "car": "Ferrari",
+    "laps": "44",
+    "time": "1:23:34.476"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Italy",
+    "date": "02-Sep-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:16:54.484"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Singapore",
+    "date": "16-Sep-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "61",
+    "time": "1:51:11.611"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Russia",
+    "date": "30-Sep-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:27:25.181"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Japan",
+    "date": "07-Oct-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "53",
+    "time": "1:27:17.062"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "United States",
+    "date": "21-Oct-2018",
+    "winner": "Kimi RÃ¤ikkÃ¶nen RAI",
+    "car": "Ferrari",
+    "laps": "56",
+    "time": "1:34:18.643"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Mexico",
+    "date": "28-Oct-2018",
+    "winner": "Max Verstappen VER",
+    "car": "Red Bull Racing TAG Heuer",
+    "laps": "71",
+    "time": "1:38:28.851"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Brazil",
+    "date": "11-Nov-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "71",
+    "time": "1:27:09.066"
+  },
+  {
+    "year": "2018",
+    "grand-pix": "Abu Dhabi",
+    "date": "25-Nov-2018",
+    "winner": "Lewis Hamilton HAM",
+    "car": "Mercedes",
+    "laps": "55",
+    "time": "1:39:40.382"
+  }
+]
