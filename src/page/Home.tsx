@@ -5,10 +5,11 @@ import { useMemo, useState } from "react";
 import { SelectLabels } from "../components/SelectLabels";
 import { TableRace } from "../components/TableRace";
 import FilterAltOffIcon from "@mui/icons-material/FilterAltOff";
+import { RaceResultChart } from "../components/RaceResultChart";
 export const Home = () => {
   const [params, setParams] = useState({
     year: "",
-    grand: "",
+    grandPrix: "",
     winner: "",
     car: "",
     laps: "",
@@ -16,26 +17,28 @@ export const Home = () => {
   });
 
   const years = Array.from(new Set(myData.map((x) => x.year)));
-  const grands = Array.from(new Set(myData.map((x) => x["grand-pix"])));
+  const grandPrixs = Array.from(new Set(myData.map((x) => x.grandPrix)));
   const winners = Array.from(new Set(myData.map((x) => x.winner)));
   const cars = Array.from(new Set(myData.map((x) => x.car)));
 
   const filtered = useMemo(() => {
-    return myData.filter((obj) => {
-      return (
-        (params.year ? obj.year === params.year : obj.year) &&
-        obj["grand-pix"].toLowerCase().search(params.grand.toLowerCase()) >=
-          0 &&
-        obj.winner.toLowerCase().search(params.winner.toLowerCase()) >= 0 &&
-        obj.car.toLowerCase().search(params.car.toLowerCase()) >= 0
-      );
-    });
-  }, [params.car, params.grand, params.winner, params.year]);
+    return myData
+      .filter((obj) => {
+        return (
+          (params.year ? obj.year === params.year : obj.year) &&
+          obj.grandPrix.toLowerCase().search(params.grandPrix.toLowerCase()) >=
+            0 &&
+          obj.winner.toLowerCase().search(params.winner.toLowerCase()) >= 0 &&
+          obj.car.toLowerCase().search(params.car.toLowerCase()) >= 0
+        );
+      })
+      .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  }, [params.car, params.grandPrix, params.winner, params.year]);
   function handleClears() {
     setParams({
       ...params,
       year: "",
-      grand: "",
+      grandPrix: "",
       winner: "",
       car: "",
       laps: "",
@@ -62,11 +65,13 @@ export const Home = () => {
             disablePortal
             id="combo-box-grand"
             sx={{ width: 220 }}
-            options={grands}
-            value={params.grand}
-            renderInput={(params) => <TextField {...params} label="Grands" />}
+            options={grandPrixs}
+            value={params.grandPrix}
+            renderInput={(params) => (
+              <TextField {...params} label="Grand Prix" />
+            )}
             onChange={(_, grand) => {
-              return setParams({ ...params, grand: grand ?? "" });
+              return setParams({ ...params, grandPrix: grand ?? "" });
             }}
           />
           <Autocomplete
@@ -97,6 +102,7 @@ export const Home = () => {
         </Grid>
       </Grid>
       <Grid>
+        <RaceResultChart data={filtered} />
         <TableRace data={filtered} />
       </Grid>
     </Container>
