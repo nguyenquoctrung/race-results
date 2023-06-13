@@ -9,9 +9,9 @@ import {
   TableCell,
   TableBody,
 } from "@mui/material";
-interface IRanceData {
+interface IRaceData {
   year: string;
-  "grand-pix": string;
+  grandPrix: string;
   date: string;
   winner: string;
   car: string;
@@ -20,7 +20,7 @@ interface IRanceData {
 }
 
 interface ITableRaceProps extends HTMLAttributes<HTMLDivElement> {
-  data: IRanceData[];
+  data: IRaceData[];
 }
 
 export const TableRace: React.FunctionComponent<ITableRaceProps> = ({
@@ -49,7 +49,7 @@ export const TableRace: React.FunctionComponent<ITableRaceProps> = ({
               >
                 <TableCell align="left">{row.year}</TableCell>
                 <TableCell component="th" scope="row">
-                  {row["grand-pix"]}
+                  {row.grandPrix}
                 </TableCell>
                 <TableCell align="left">{row.winner}</TableCell>
                 <TableCell align="left">{row.car}</TableCell>
